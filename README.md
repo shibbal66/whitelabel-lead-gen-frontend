@@ -1,6 +1,6 @@
-# Rapid AI — Sales Lead Automation Frontend
+# MyReelDream AI — Sales Lead Automation Frontend
 
-A modern B2B SaaS frontend for **Rapid AI**: manage leads, run AI-assisted outbound campaigns, automate follow-ups, schedule meetings, and track pipeline analytics. Built with Vite, React 18, TypeScript, Tailwind CSS, and shadcn/ui.
+A modern B2B SaaS frontend for **MyReelDream AI**: manage leads, run AI-assisted outbound campaigns, automate follow-ups, schedule meetings, and track pipeline analytics. Built with Vite, React 18, TypeScript, Tailwind CSS, and shadcn/ui.
 
 ![License](https://img.shields.io/badge/license-Private-blue)
 ![Vite](https://img.shields.io/badge/Vite-5.4-purple)
